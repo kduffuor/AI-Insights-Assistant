@@ -6,7 +6,7 @@ Built as a portfolio project demonstrating the intersection of AI, data analysis
 and business communication.
 
 ## Live Demo
-> Coming soon — deploying to Streamlit Cloud
+[Launch App](https://ai-insights-assistant.streamlit.app)
 
 ## Overview
 This application allows non-technical business users to interact with a structured 
