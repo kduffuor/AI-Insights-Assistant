@@ -222,7 +222,7 @@ with st.expander("Dataset Summary", expanded=False):
 # st.divider()
 
 # --- AI Question Interface ---
-st.subheader("🤖 Ask a Business Question")
+st.subheader("Ask a Business Question")
 st.write("Type a plain English question about the dataset and the AI will generate an insight.")
 
 # --- Suggested Questions ---
