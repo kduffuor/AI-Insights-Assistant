@@ -36,7 +36,7 @@ and returns structured, actionable insights formatted for a business audience.
 
 
 ## Dataset
-IBM Telco Customer Churn Dataset — 7,043 customer records with attributes including 
+IBM Telco Customer Churn Dataset – 7,043 customer records with attributes including 
 contract type, internet service, tenure, monthly charges, and churn status.
 
 Source: IBM Developer / telco-customer-churn-on-icp4d
@@ -53,7 +53,7 @@ ai-insights-assistant/
 ## Local Setup
 **1. Clone the repository**
 ```
-git clone https://github.com/kduffuor/AI-Insights-Assistant.git
+git clone https://github.com/kduffuor/ai-insights-assistant.git
 cd AI-Insights-Assistant
 ```
 
